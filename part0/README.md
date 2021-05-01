@@ -22,7 +22,7 @@ Learn about the basics of HTML forms by reading Mozilla's tutorial [Your first f
 
 ## 0.4: new note
 
-In chapter Loading a [page containing JavaScript](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review) - review the chain of events caused by opening the page <https://studies.cs.helsinki.fi/exampleapp/notes> is depicted as a sequence diagram
+In chapter Loading a [page containing JavaScript - review](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review) the chain of events caused by opening the page <https://studies.cs.helsinki.fi/exampleapp/notes> is depicted as a sequence diagram
 
 The diagram was made using [websequencediagrams](https://www.websequencediagrams.com/) service as follows:
 
