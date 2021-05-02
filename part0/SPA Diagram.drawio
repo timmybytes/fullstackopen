@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2021-05-01T22:36:53.432Z" agent="5.0 (Macintosh)" etag="jcgPZhQvO8Jn8oABcROh" version="14.6.9" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="788" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="jSx4zBFMnWd3N2hLMnBy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="160" />
+              <mxPoint x="160" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="jSx4zBFMnWd3N2hLMnBy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-2" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-5" value="" style="endArrow=classic;html=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-6" value="&lt;div&gt;User submits data via a HTTP POST request&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-7" value="" style="endArrow=classic;html=1;dashed=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSx4zBFMnWd3N2hLMnBy-8" value="Server responds with a 201 Created status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="220" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
